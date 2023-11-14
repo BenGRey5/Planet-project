@@ -1,4 +1,4 @@
-Pizza project
+Planet project
 
 Code contributors/Authors
 
