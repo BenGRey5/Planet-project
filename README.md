@@ -10,7 +10,7 @@ HTML CSS Javascript
 
 Description-
 
-This project takes the number a user inputs and returns a price based on the size and toppings of their chosen pizza
+This project takes the the desired age or ages the user inputs and returns the age on other planets.
 
 Setup/Installation-
 
